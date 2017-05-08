@@ -1,4 +1,4 @@
-# Comment Box made with Vue JS for coding challenge
+# Comment Box made with Vue JS
 
 ## Build Setup
 
